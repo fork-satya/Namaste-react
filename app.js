@@ -5,7 +5,7 @@ const parent = React.createElement(
     {id:'parent',xyz:'something'},
     [
         React.createElement("div",{id:"child"},[
-            React.createElement("h1",{id:"heading1"},"H1"),
+            React.createElement("h1",{id:"heading1"},"H1 is live"),
             React.createElement("h2",{id:"heading2"},"H2")
         ]),
         React.createElement("div",{id:"child2"},[

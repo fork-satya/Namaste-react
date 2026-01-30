@@ -1,0 +1,25 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "react",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fork-satya/Namaste-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "satya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fork-satya/Namaste-react/issues"
+  },
+  "homepage": "https://github.com/fork-satya/Namaste-react#readme",
+  "dependencies": {
+    "parcel": "^2.16.3"
+  }
+}

@@ -18,3 +18,6 @@ Namaste React learning
 -HTTPS 
 -tree shaking - remove unused code
 -different dev and prod bundeles
+
+#JSX - html/ xml like syntax used to create react application
+#Babel - transpiler used to convert jsx into js

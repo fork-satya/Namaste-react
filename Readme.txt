@@ -22,3 +22,6 @@ Namaste React learning
 #JSX - html/ xml like syntax used to create react application. It is a react element
 #Babel - transpiler used to convert jsx into js
 functional component: a function that returns JSX or react element.
+
+Config driven UI
+
